@@ -1,0 +1,12 @@
+.LogoutIcon {
+    background-color: #191414;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+}
+.LogoutIcon img {
+    height: 90%;
+    cursor: pointer;
+}

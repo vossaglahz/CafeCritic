@@ -1,0 +1,11 @@
+.AddIcon {
+    background-color: #191414;
+    padding: 8px;
+    height: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+}
+.AddIcon img {
+    height: 900%;
+}
