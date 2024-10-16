@@ -1,5 +1,5 @@
 НАЧАЛО:
-npm run dev -> если запустить в 12exam папке запустит ultra runner, установит все модульсы и запустит сервер и клиент
+npm run dev -> если запустить в корневой папке, запустит ultra runner, установит все модульсы и запустит сервер и клиент
 или
 cd server -> npm i -> npm run dev
 cd client -> npm i -> npm run dev
